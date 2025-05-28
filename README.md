@@ -28,7 +28,7 @@ Refer to [DSPLibrary](https://github.com/BigdogManLuo/DSPLibrary) for the code a
 
 
 
-## Module Overview 模块概览
+## Module Overview
 
 | Module | Description 描述 |
 |--------|------------------|
@@ -37,7 +37,7 @@ Refer to [DSPLibrary](https://github.com/BigdogManLuo/DSPLibrary) for the code a
 | `3.x`  | MSP430-based core board and regulators <br> MSP430 主控与扩展板 |
 | `4.x`  | Auxiliary power modules: non-isolated, isolated, rectified <br> 各类辅助电源：非隔离、隔离、整流型 |
 | `5.x`  | Current and voltage sensors (Hall-based or HF transformer) <br> 电流电压传感器模块（霍尔/高频CT） |
-## Project File Structure 项目文件结构
+## Project File Structure
 <pre>
 .
 ├── 1.0 - SYNC_BUCK_Si8233_2023.4.21
@@ -61,12 +61,12 @@ Refer to [DSPLibrary](https://github.com/BigdogManLuo/DSPLibrary) for the code a
 </pre>
 
 
-## Pin-out Defination / 接口定义
+## Pin-out Defination 
 ![image](https://github.com/user-attachments/assets/fcaa4d5d-cc29-4079-bfd1-a378104c0f87)
 
 
 
-## Disclaimer / 免责声明
+## Disclaimer
 
 This hardware is provided **as-is** for educational and experimental use only. The author assumes no responsibility for any injury, damage, or loss resulting from its use.
 
@@ -74,7 +74,7 @@ This hardware is provided **as-is** for educational and experimental use only. T
 
 
 
-## License / 许可协议
+## License
 
 This project is licensed under the **BSD 3-Clause License** with additional restrictions.  
 本项目遵循 **BSD 3-Clause License**，并附加以下使用限制：
@@ -89,7 +89,7 @@ See [`LICENSE`](./LICENSE) for full details.
 
 
 
-## Acknowledgments / 致谢
+## Acknowledgments
 
 Originally developed for the **National Electronic Design Contest 2021**.  
 最初由参赛团队为 **2021 全国电子设计竞赛** 构建。
