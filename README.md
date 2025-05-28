@@ -32,11 +32,7 @@ Originally developed for the National Electronic Design Contest in 2021, now ope
 | `3.x`  | MSP430-based core board and regulators <br> MSP430 主控与扩展板 |
 | `4.x`  | Auxiliary power modules: non-isolated, isolated, rectified <br> 各类辅助电源：非隔离、隔离、整流型 |
 | `5.x`  | Current and voltage sensors (Hall-based or HF transformer) <br> 电流电压传感器模块（霍尔/高频CT） |
-
----
-
 ## Project File Structure 项目文件结构
-
 <pre>
 .
 ├── 1.0 - SYNC_BUCK_Si8233_2023.4.21
@@ -88,4 +84,4 @@ I extend my heartfelt appreciation to my teammates, [**Pu Chuanqing**](https://g
 and [**Xin Mingyuan**](https://github.com/Chen-JIANG-HHH), whose unwavering software support during the contest played a vital role in the success of this project.  
 在此，谨向我的队友 [**濮川苘**](https://github.com/BigdogManLuo) 和 [**辛明远**](https://github.com/Chen-JIANG-HHH) 致以诚挚的感谢。
 
-***Here’s to the alliance that saw us through it all.***
+##***Here’s to the alliance that saw us through it all.***
