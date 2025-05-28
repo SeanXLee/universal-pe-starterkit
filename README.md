@@ -72,11 +72,8 @@ This hardware is provided **as-is** for educational and experimental use only. T
 ## License / 许可协议
 
 This project is licensed under the **BSD 3-Clause License**.  
-本项目遵循 **BSD 3-Clause License**（三条款 BSD 协议）授权，允许任何人免费使用、修改和分发（包括商用），前提是：
-- 保留原始署名与版权信息；
-- 附带许可证文本；
-- 不得使用原作者名义为派生产品背书。
-- 
+本项目遵循 **BSD 3-Clause License** 授权。
+
 See [`LICENSE`](./LICENSE) for full details.  
 完整内容请参见 [`LICENSE`](./LICENSE) 文件。
 
@@ -91,3 +88,4 @@ I extend my heartfelt appreciation to my teammates, [**Pu Chuanqing**](https://g
 and [**Xin Mingyuan**](https://github.com/Chen-JIANG-HHH), whose unwavering software support during the contest played a vital role in the success of this project.  
 在此，谨向我的队友 [**濮川苘**](https://github.com/BigdogManLuo) 和 [**辛明远**](https://github.com/Chen-JIANG-HHH) 致以诚挚的感谢。
 
+***Here’s to the alliance that saw us through it all.***
