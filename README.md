@@ -3,8 +3,10 @@
 
 A modular power electronics hardware starter kit designed for sub-100V applications.  
 Originally developed for the National Electronic Design Contest in 2021, now open-sourced for education and research.
-
 适用于低于 100V 场合的模块化电力电子模块化套件，最初用于 2021 年全国大学生电子设计竞赛。
+
+Refer to [DSPLibrary](https://github.com/BigdogManLuo/DSPLibrary) for the code and function libraries used during the contest.  
+比赛中所使用的控制程序与封装函数库，请参阅：[DSPLibrary](https://github.com/BigdogManLuo/DSPLibrary)
 
 
 
@@ -57,7 +59,7 @@ Originally developed for the National Electronic Design Contest in 2021, now ope
 
 
 ## Pin-out Defination / 接口定义
-![image](https://github.com/user-attachments/assets/29d5ef58-ae8f-40bc-9dd1-69c9eb0169a7)
+![image](https://github.com/user-attachments/assets/e4178b7d-afc5-4a1e-8cd9-84509c256285)
 
 
 
