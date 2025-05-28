@@ -73,8 +73,13 @@ This hardware is provided **as-is** for educational and experimental use only. T
 
 ## License / 许可协议
 
-This project is licensed under the **BSD 3-Clause License**.  
-本项目遵循 **BSD 3-Clause License** 授权。
+This project is licensed under the **BSD 3-Clause License** with additional restrictions.  
+本项目遵循 **BSD 3-Clause License**，并附加以下使用限制：
+
+**Additional Terms 附加条款：**  
+This project is **not licensed for commercial use**.  
+Sale, resale, or redistribution for profit is **prohibited without prior written permission** from the author.  
+未经作者书面许可，禁止任何形式的商业用途、转售或盈利性再分发。
 
 See [`LICENSE`](./LICENSE) for full details.  
 完整内容请参见 [`LICENSE`](./LICENSE) 文件。
