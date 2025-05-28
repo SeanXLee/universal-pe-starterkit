@@ -5,7 +5,7 @@ A modular power electronics hardware starter kit designed for sub-100V applicati
 Originally developed for the National Electronic Design Contest in 2021, now open-sourced for education and research.  
 适用于低于 100V 场合的电力电子模块化套件，最初用于 2021 年全国大学生电子设计竞赛。
 
-Based on Altium Designer
+Based on Altium Designer  
 基于Altium Designer
 
 Refer to [DSPLibrary](https://github.com/BigdogManLuo/DSPLibrary) for the code and function libraries used during the contest.  
