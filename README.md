@@ -6,7 +6,7 @@ Originally developed for the National Electronic Design Contest in 2021, now ope
 
 适用于低于 100V 场合的模块化电力电子模块化套件，最初用于 2021 年全国大学生电子设计竞赛。
 
----
+
 
 ## Features  
 - **Modular design** 模块化结构  
@@ -21,7 +21,7 @@ Originally developed for the National Electronic Design Contest in 2021, now ope
   Modules are designed to match different requirements such as low power, isolation, or high bandwidth  
   针对低功耗、隔离、高带宽等不同需求提供不同模块  
 
----
+
 
 ## Module Overview 模块概览
 
@@ -55,7 +55,7 @@ Originally developed for the National Electronic Design Contest in 2021, now ope
 └── Electronic Design Contest Group 1.DsnWrk  ← Altium Project Workspace
 </pre>
 
----
+
 
 ## Disclaimer / 免责声明
 
@@ -63,7 +63,7 @@ This hardware is provided **as-is** for educational and experimental use only. T
 
 本项目仅供教学与实验用途。因使用本套件所引发的任何形式的人身伤害、设备损坏或其他损失，原作者概不承担责任。
 
----
+
 
 ## License / 许可协议
 
@@ -73,7 +73,7 @@ This project is licensed under the **BSD 3-Clause License**.
 See [`LICENSE`](./LICENSE) for full details.  
 完整内容请参见 [`LICENSE`](./LICENSE) 文件。
 
----
+
 
 ## Acknowledgments / 致谢
 
