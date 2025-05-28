@@ -1,4 +1,4 @@
-# universal-pe-starterkit
+# Universal modular Power Electronics building blocks
 A modular power electronics hardware starter-kit designed for sub-100V applications. Originally developed for National Electronic Design Contest in 2021.
 ## Features
 
