@@ -1,0 +1,36 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=1.0 - SYNC_BUCK_Si8233_2023.4.21\1.0 - SYNC_BUCK_Si8233_2023.4.21.PrjPcb
+[Project2]
+ProjectPath=1.1 - SYNC_BUCK_IR2104_2021.7.31\1.1 - SYNC_BUCK_IR2104_2021.7.31.PrjPcb
+[Project3]
+ProjectPath=2.0 - DSP_Expansion_Board_for_28379D_LAUNCHXL\2.0 - DSP_Expansion_Board_for_28379D_LAUNCHXL.PrjPcb
+[Project4]
+ProjectPath=2.1 - AD_EXPANSION_and_IO_Buffer_AHCT541_for_28379D_LAUNCHXL\2.1 - AD_EXPANSION_and_IO_Buffer_AHCT541_for_28379D_LAUNCHXL.PrjPcb
+[Project5]
+ProjectPath=2.2 - AD_EXPANSION_for_28379D_LAUNCHXL\2.2 - AD_EXPANSION_for_28379D_LAUNCHXL.PrjPcb
+[Project6]
+ProjectPath=2.3 - 28375D_Control_Card_2023.7.28\2.3 - 28375D_Control_Card_2023.6.7.PrjPcb
+[Project7]
+ProjectPath=3.0 - MSP430F5438_Core_Board\3.0 - MSP430F5438_Core_Board.PrjPCB
+[Project8]
+ProjectPath=3.1 - Expansion_Board_DCDC Ver_for_MSP430\3.1 - Expansion_Board_DCDC Ver_for_MSP430.PrjPcb
+[Project9]
+ProjectPath=3.2 - Expansion_Board_LDO Ver_for_MSP430\3.2 - Expansion_Board_LDO Ver_for_MSP430.PrjPcb
+[Project10]
+ProjectPath=4.0 - Nonisolated_DCDC_3BUCK-1BOOST_AUX_Power\4.0 - Nonisolated_DCDC_3BUCK-1BOOST_AUX_Power.PrjPcb
+[Project11]
+ProjectPath=4.1 - Isolated_AUX_Power_Board\4.1 - Isolated_AUX_Power_Board.PrjPcb
+[Project12]
+ProjectPath=4.2 - Three_Phase_Diode_Rectifier_AUX_Power_Board\4.2 - Three_Phase_Diode_Rectifier_AUX_Power_Board.PrjPcb
+[Project13]
+ProjectPath=4.3 - Auxiliary_Power_Board\4.3 - Auxiliary_Power_Board.PrjPcb
+[Project14]
+ProjectPath=4.4 - SCT2430 TEST\4.4 - SCT2430 TEST.PrjPcb
+[Project15]
+ProjectPath=5.0 - Hall_Current_Sensor_LEM_55P\5.0 - Hall_Current_Sensor_LEM_55P.PrjPcb
+[Project16]
+ProjectPath=5.1 - Hall_Voltage_Sensor\5.1 - Hall_Voltage_Sensor.PrjPcb
+[Project17]
+ProjectPath=5.2 - HF_Transducer_Voltage_Sensor\5.2 - HF_Transducer_Voltage_Sensor.PrjPcb
