@@ -10,14 +10,14 @@ Originally developed for the National Electronic Design Contest in 2021, now ope
 
 ## Features 
 - **Modular design** 模块化结构
-- Independent control, sensing, and power stages
-- 独立控制、传感、功率单元
+ Independent control, sensing, and power stages
+ 独立控制、传感、功率单元
 - **Standardized interface** 接口统一
-- All signals use consistent definitions and IDC-10 ribbon cable connections
-- 全部采用一致接口信号定义，全部信号使用IDC-10排线连接
+ All signals use consistent definitions and IDC-10 ribbon cable connections
+ 全部采用一致接口信号定义，全部信号使用IDC-10排线连接
 - **Multiple adaptable configurations** 多种适配场景
-- Modules are designed to match different requirements such as low power, isolation, or high bandwidth
-- 针对低功耗、隔离、高带宽等不同需求提供不同模块
+ Modules are designed to match different requirements such as low power, isolation, or high bandwidth
+ 针对低功耗、隔离、高带宽等不同需求提供不同模块
 
 ---
 
