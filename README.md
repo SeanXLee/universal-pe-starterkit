@@ -59,7 +59,7 @@ Refer to [DSPLibrary](https://github.com/BigdogManLuo/DSPLibrary) for the code a
 
 
 ## Pin-out Defination / 接口定义
-![image](https://github.com/user-attachments/assets/e4178b7d-afc5-4a1e-8cd9-84509c256285)
+![image](https://github.com/user-attachments/assets/fcaa4d5d-cc29-4079-bfd1-a378104c0f87)
 
 
 
