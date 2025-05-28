@@ -87,7 +87,7 @@ See [`LICENSE`](./LICENSE) for full details.
 Originally developed for the **National Electronic Design Contest 2021**.  
 最初由参赛团队为 **2021 全国电子设计竞赛** 构建。
 
-I extend my heartfelt appreciation to my teammates, **Pu Chuanqing**  @BigdogManLuo and **Xin Mingyuan** @Chen-JIANG-HHH,  
-whose unwavering software support during the contest played a vital role in the success of this project.  
+I extend my heartfelt appreciation to my teammates, [**Pu Chuanqing**](https://github.com/BigdogManLuo), 
+and [**Xin Mingyuan**](https://github.com/Chen-JIANG-HHH), whose unwavering software support during the contest played a vital role in the success of this project.  
 在此，谨向我的队友 **濮川苘** 和 **辛明远** 致以诚挚的感谢。
 
