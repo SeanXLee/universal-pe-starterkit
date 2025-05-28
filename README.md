@@ -8,16 +8,18 @@ Originally developed for the National Electronic Design Contest in 2021, now ope
 
 ---
 
-## Features 
-- **Modular design** 模块化结构
- Independent control, sensing, and power stages
- 独立控制、传感、功率单元
-- **Standardized interface** 接口统一
- All signals use consistent definitions and IDC-10 ribbon cable connections
- 全部采用一致接口信号定义，全部信号使用IDC-10排线连接
-- **Multiple adaptable configurations** 多种适配场景
- Modules are designed to match different requirements such as low power, isolation, or high bandwidth
- 针对低功耗、隔离、高带宽等不同需求提供不同模块
+## Features  
+- **Modular design** 模块化结构  
+  Independent control, sensing, and power stages  
+  独立控制、传感、功率单元  
+
+- **Standardized interface** 接口统一  
+  All signals use consistent definitions and IDC-10 ribbon cable connections  
+  全部采用一致接口信号定义，全部信号使用IDC-10排线连接  
+
+- **Multiple adaptable configurations** 多种特性适配  
+  Modules are designed to match different requirements such as low power, isolation, or high bandwidth  
+  针对低功耗、隔离、高带宽等不同需求提供不同模块  
 
 ---
 
@@ -25,11 +27,11 @@ Originally developed for the National Electronic Design Contest in 2021, now ope
 
 | Module | Description 描述 |
 |--------|------------------|
-| `1.x`  | Synchronous buck converters (with different drivers) <br> 同步 Buck 电源模块（不同驱动芯片） |
+| `1.x`  | Synchronous buck converters (with different drivers) <br> 同步半桥模块（隔离 / 非隔离驱动） |
 | `2.x`  | C2000-based control and expansion boards <br> C2000 控制器扩展与接口板 |
-| `3.x`  | MSP430-based core board and regulators <br> MSP430 主控核心与电源扩展板 |
+| `3.x`  | MSP430-based core board and regulators <br> MSP430 主控与扩展板 |
 | `4.x`  | Auxiliary power modules: non-isolated, isolated, rectified <br> 各类辅助电源：非隔离、隔离、整流型 |
-| `5.x`  | Current and voltage sensors (Hall-based or HF transformer) <br> 电流电压传感器模块（霍尔/高频变换） |
+| `5.x`  | Current and voltage sensors (Hall-based or HF transformer) <br> 电流电压传感器模块（霍尔/高频CT） |
 
 ---
 
@@ -82,5 +84,10 @@ See [`LICENSE`](./LICENSE) for full details.
 
 ## Acknowledgments / 致谢
 
-Originally developed for the National Electronic Design Contest 2021.   
-最初由参赛团队为 **2021 全国电子设计竞赛** 构建
+Originally developed for the **National Electronic Design Contest 2021**.  
+最初由参赛团队为 **2021 全国电子设计竞赛** 构建。
+
+I extend my heartfelt appreciation to my teammates, **Pu Chuanqing**  @BigdogManLuo and **Xin Mingyuan** @Chen-JIANG-HHH,  
+whose unwavering software support during the contest played a vital role in the success of this project.  
+在此，谨向我的队友 **濮川苘** 和 **辛明远** 致以诚挚的感谢。
+
