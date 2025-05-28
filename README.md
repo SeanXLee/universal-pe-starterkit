@@ -56,6 +56,9 @@ Originally developed for the National Electronic Design Contest in 2021, now ope
 </pre>
 
 
+## Pin-out Defination / 接口定义
+![image](https://github.com/user-attachments/assets/740c7900-d72b-43c4-9afd-7c216a83059c)
+
 
 ## Disclaimer / 免责声明
 
