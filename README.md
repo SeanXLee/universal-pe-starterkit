@@ -95,4 +95,4 @@ I extend my heartfelt appreciation to my teammates, [**Pu Chuanqing**](https://g
 and [**Xin Mingyuan**](https://github.com/Chen-JIANG-HHH), whose unwavering software support during the contest played a vital role in the success of this project.  
 在此，谨向我的队友 [**濮川苘**](https://github.com/BigdogManLuo) 和 [**辛明远**](https://github.com/Chen-JIANG-HHH) 致以诚挚的感谢。
 
-## ***Here’s to the alliance that saw us through it all.***
+### ***Here’s to the alliance that saw us through it all.***
